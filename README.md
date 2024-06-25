@@ -1,4 +1,4 @@
-[![An image of @sabariraj01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sabariraj01)](https://holopin.io/@sabariraj01)
+[![An image of @sabariraj01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/varshith2003)](https://holopin.io/@varshith2003)
  
 ---
 
@@ -30,26 +30,24 @@
 - 🌱 Currently learning **Machine learning** and **Deep learning**
 
 - 🎨 I love working on open-source projects and contributing to the developer community.
-  
-- 👨‍💻 Check out my [Portfolio](https://sabariraj-portfolio.onrender.com)
 
-- 📫 Reach me at **sabarirajssr143@gmail.com**
+- 📫 Reach me at **varshithpopuri@gmail.com**
 
 ---
 
 ### :link: Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/s-sabari-raj-32028b227/" target="blank">
+  <a href="https://www.linkedin.com/in/varshith-popuri/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=red&labelColor=black" alt="LinkedIn Badge" style="border: 2px solid gold;"/>
   </a>
-  <a href="https://www.codechef.com/users/sabarirajssr" target="blank">
+  <a href="https://www.codechef.com/users/varshith_034" target="blank">
     <img src="https://img.shields.io/badge/CodeChef-black?style=for-the-badge&logo=codechef&logoColor=red&labelColor=black" alt="CodeChef Badge" style="border: 2px solid gold;"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/AP21110011027P" target="blank">
+  <a href="https://www.hackerrank.com/profile/AP21110011034_P" target="blank">
     <img src="https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=hackerrank&logoColor=red&labelColor=black" alt="HackerRank Badge" style="border: 2px solid gold;"/>
   </a>
-  <a href="https://leetcode.com/u/Sabari_raj/" target="blank">
+  <a href="https://leetcode.com/u/varshith-003/" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=red&labelColor=black" alt="LeetCode Badge" style="border: 2px solid gold;"/>
   </a>
 </p>
@@ -107,11 +105,11 @@
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabariraj01&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="sabariraj01" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=varshith2003&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="varshith2003" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=sabariraj01&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="sabariraj01" />
+  <img src="https://github-readme-stats.vercel.app/api?username=varshith2003&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="varshith2003" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabariraj01&theme=dark&background=000000" alt="sabariraj01" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varshith2003&theme=dark&background=000000" alt="varshith2003" />
   
 </p>
 
