@@ -1,4 +1,3 @@
-[![An image of @sabariraj01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/varshith2003)](https://holopin.io/@varshith2003)
  
 ---
 
